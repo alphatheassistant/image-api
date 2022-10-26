@@ -14,4 +14,5 @@ if(isset($_POST["submit"])) {
     $uploadOk = 0;
   }
 }
+// everythig is ok
 ?>
